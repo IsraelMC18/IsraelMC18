@@ -4,7 +4,6 @@ Soy desarrollador junior con experiencia en **Angular**, **Laravel**, **Blazor**
 
 Fuera de la programación, disfruto jugar videojuegos, tocar el bajo eléctrico y ver o jugar fútbol.
 
-- 📍 Soy de Roque, Celaya, Guanajuato
 - 🎂 Nací el 17 de diciembre de 2001 (23 años)
 - 💻 Actualmente: Desarrollador Junior
 
